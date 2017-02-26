@@ -1,1 +1,2 @@
 Circular buffer in C and C++ programming language
+Circular queue buffer size must be power of two
